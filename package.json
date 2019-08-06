@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "ad-hoc-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rbiggers/node-starter.git"
+    "url": "git+https://github.com/rbiggers/ad-hoc-utils.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rbiggers/node-starter/issues"
+    "url": "https://github.com/rbiggers/ad-hoc-utils/issues"
   },
-  "homepage": "https://github.com/rbiggers/node-starter#readme",
+  "homepage": "https://github.com/rbiggers/ad-hoc-utils#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
