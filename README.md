@@ -1,10 +1,10 @@
-# node-starter
+# ad-hoc-utils
 
 ```bash
 # Clone this repository
-git clone https://github.com/rbiggers/node-starter.git
+git clone https://github.com/rbiggers/ad-hoc-utils.git
 # Go into the repository
-cd node-starter
+cd ad-hoc-utils
 # Install dependencies
 npm install
 # Run the app
